@@ -1,13 +1,13 @@
 # rgpv
 
-webpage with docker file
+*webpage with docker file
 
-to clone repository
+*to clone repository
 
 git clone https://github.com/rishabh2219/rgpv.git
 
 
-docker build
+*docker build
 
 docker build -t username/repository:tag
 
