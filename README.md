@@ -9,9 +9,9 @@ git clone https://github.com/rishabh2219/rgpv.git
 
 *docker build
 
-docker build -t username/repository:tag
+docker build -t username/repository:tag .
 
-docker build -t rishabh2219/rgpv:1
+docker build -t rishabh2219/rgpv:1 .
 
 
 docker images
